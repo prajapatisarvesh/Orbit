@@ -6,6 +6,7 @@
 # Omniverse
 **/*.dmp
 **/.thumbs
+_isaac_sim
 
 # No USD files allowed in the repo
 **/*.usd
